@@ -1,4 +1,5 @@
 
+
 # Linux Basic Commands – Commands and Their Uses
 
 > Note: Add the screenshot of command execution below each command section.
@@ -28,8 +29,7 @@ ls
 
 **Use:** Lists files and directories in the current directory.
 
-**Screenshot:**
-(Add Screenshot Here)
+<img width="763" height="122" alt="kali-linux-2025 3-vmware-amd64-2026-06-21-22-56-02 mod" src="https://github.com/user-attachments/assets/031f1a99-6fc6-4484-882f-5014f223c3d4" />
 
 ---
 
@@ -42,8 +42,8 @@ ls -l
 
 **Use:** Displays detailed information about files and directories.
 
-**Screenshot:**
-(Add Screenshot Here)
+<img width="902" height="345" alt="kali-linux-2025 3-vmware-amd64-2026-06-21-22-56-02 modi" src="https://github.com/user-attachments/assets/4204a90e-f559-4957-a783-a0f0d6752ac5" />
+
 
 ---
 
