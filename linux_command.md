@@ -56,8 +56,6 @@ ls -a
 
 **Use:** Shows all files including hidden files.
 
-**Screenshot:**
-(Add Screenshot Here)
 
 ---
 
@@ -84,8 +82,8 @@ mkdir project
 
 **Use:** Creates a new directory.
 
-**Screenshot:**
-(Add Screenshot Here)
+<img width="1280" height="616" alt="kali-linux-2025 3-vmware-amd64-2026-06-21-23-07-18" src="https://github.com/user-attachments/assets/f98e43c2-1e30-4d7b-8685-8fd2213221bb" />
+
 
 ---
 
@@ -98,8 +96,7 @@ rmdir project
 
 **Use:** Removes an empty directory.
 
-**Screenshot:**
-(Add Screenshot Here)
+<img width="1280" height="597" alt="kali-linux-2025 3-vmware-amd64-2026-06-21-23-13-54" src="https://github.com/user-attachments/assets/1299f737-c86a-4321-9fbf-7246d042756f" />
 
 ---
 
