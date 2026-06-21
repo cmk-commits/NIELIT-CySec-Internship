@@ -42,7 +42,7 @@ ls -l
 
 **Use:** Displays detailed information about files and directories.
 
-<img width="902" height="345" alt="kali-linux-2025 3-vmware-amd64-2026-06-21-22-56-02 modi" src="https://github.com/user-attachments/assets/4204a90e-f559-4957-a783-a0f0d6752ac5" />
+<img width="902" height="345" alt="ls-l" src="https://github.com/user-attachments/assets/4204a90e-f559-4957-a783-a0f0d6752ac5" />
 
 
 ---
@@ -109,8 +109,7 @@ touch file.txt
 
 **Use:** Creates an empty file.
 
-**Screenshot:**
-(Add Screenshot Here)
+<img width="277" height="41" alt="touch" src="https://github.com/user-attachments/assets/9f69be21-701f-4183-9ba6-16bee2e02792" />
 
 ---
 
@@ -137,8 +136,8 @@ echo "Hello Linux"
 
 **Use:** Prints text to the terminal.
 
-**Screenshot:**
-(Add Screenshot Here)
+<img width="300" height="67" alt="echo" src="https://github.com/user-attachments/assets/df9df5e8-605f-4258-83bb-9bb2595890ae" />
+
 
 ---
 
@@ -333,8 +332,8 @@ history
 
 **Use:** Shows previously executed commands.
 
-**Screenshot:**
-(Add Screenshot Here)
+<img width="601" height="714" alt="history" src="https://github.com/user-attachments/assets/99240b3a-3284-44f7-a669-1cf0f98e1d11" />
+
 
 ---
 
@@ -434,173 +433,6 @@ chmod 755 script.sh
 **Screenshot:**
 (Add Screenshot Here)
 
----
-
-# 32. chown
-
-**Command:**
-```bash
-chown user file.txt
-```
-
-**Use:** Changes file ownership.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 33. grep
-
-**Command:**
-```bash
-grep "Linux" file.txt
-```
-
-**Use:** Searches for a pattern in a file.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 34. find
-
-**Command:**
-```bash
-find . -name "*.txt"
-```
-
-**Use:** Searches for files and directories.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 35. locate
-
-**Command:**
-```bash
-locate file.txt
-```
-
-**Use:** Quickly finds files.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 36. sort
-
-**Command:**
-```bash
-sort file.txt
-```
-
-**Use:** Sorts file contents.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 37. wc
-
-**Command:**
-```bash
-wc file.txt
-```
-
-**Use:** Counts lines, words, and characters.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 38. head
-
-**Command:**
-```bash
-head file.txt
-```
-
-**Use:** Displays the first 10 lines of a file.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 39. tail
-
-**Command:**
-```bash
-tail file.txt
-```
-
-**Use:** Displays the last 10 lines of a file.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 40. diff
-
-**Command:**
-```bash
-diff file1.txt file2.txt
-```
-
-**Use:** Compares two files.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 41. tar
-
-**Command:**
-```bash
-tar -cvf archive.tar folder
-```
-
-**Use:** Creates an archive file.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 42. gzip
-
-**Command:**
-```bash
-gzip file.txt
-```
-
-**Use:** Compresses a file.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 43. ping
-
-**Command:**
-```bash
-ping google.com
-```
-
-**Use:** Checks network connectivity.
-
-**Screenshot:**
-(Add Screenshot Here)
 
 ---
 
@@ -632,72 +464,4 @@ curl https://example.com
 
 ---
 
-# 46. ifconfig
 
-**Command:**
-```bash
-ifconfig
-```
-
-**Use:** Displays network interface information.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 47. ip
-
-**Command:**
-```bash
-ip addr
-```
-
-**Use:** Displays IP address information.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 48. passwd
-
-**Command:**
-```bash
-passwd
-```
-
-**Use:** Changes the user password.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 49. sudo
-
-**Command:**
-```bash
-sudo apt update
-```
-
-**Use:** Executes commands with administrative privileges.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
-
-# 50. exit
-
-**Command:**
-```bash
-exit
-```
-
-**Use:** Closes the terminal session.
-
-**Screenshot:**
-(Add Screenshot Here)
-
----
