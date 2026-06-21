@@ -14,7 +14,8 @@ pwd
 
 **Use:** Displays the current working directory.
 
-<img width="1206" height="160" alt="kali-linux-2025 3-vmware-amd64-2026-06-21-22-38-38" src="https://github.com/user-attachments/assets/e4a4d2e6-249d-4740-a6b5-a3f93e74b493" />
+<img width="486" height="70" alt="kali-linux-2025 3-vmware-amd64-2026-06-21-22-38-38" src="https://github.com/user-attachments/assets/35d22b50-5bad-4498-93e8-373180364faf" />
+
 
 ---
 
