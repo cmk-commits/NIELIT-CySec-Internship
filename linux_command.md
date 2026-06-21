@@ -68,8 +68,8 @@ cd Documents
 
 **Use:** Changes the current directory.
 
-**Screenshot:**
-(Add Screenshot Here)
+<img width="912" height="236" alt="cd" src="https://github.com/user-attachments/assets/fa4f4db4-f475-40f0-848d-4bdf86385613" />
+
 
 ---
 
@@ -82,8 +82,7 @@ mkdir project
 
 **Use:** Creates a new directory.
 
-<img width="1280" height="616" alt="kali-linux-2025 3-vmware-amd64-2026-06-21-23-07-18" src="https://github.com/user-attachments/assets/f98e43c2-1e30-4d7b-8685-8fd2213221bb" />
-
+<img width="1280" height="616" alt="mkdir" src="https://github.com/user-attachments/assets/4223a2d7-be09-4b70-bc46-d633cf36c091" />
 
 ---
 
@@ -96,7 +95,8 @@ rmdir project
 
 **Use:** Removes an empty directory.
 
-<img width="1280" height="597" alt="kali-linux-2025 3-vmware-amd64-2026-06-21-23-13-54" src="https://github.com/user-attachments/assets/1299f737-c86a-4321-9fbf-7246d042756f" />
+<img width="1280" height="597" alt="rmdir" src="https://github.com/user-attachments/assets/62e4d8a1-9f5f-4175-8cea-f1d348a5b72f" />
+
 
 ---
 
